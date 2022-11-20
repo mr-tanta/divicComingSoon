@@ -3,11 +3,11 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Abraham Esandayinze Tanta -- Project Manager -- https://twiiter.com/mrtanta
 
 # THANKS
 
-    <name>
+    Abraham Esandayinze Tanta -- Project Manager -- https://twiiter.com/mrtanta
 
 # TECHNOLOGY COLOPHON
 
